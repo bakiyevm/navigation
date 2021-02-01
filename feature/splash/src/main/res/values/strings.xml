@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open_new_fragment">Open new Fragment</string>
+    <string name="open_new_activity">Open new Activity</string>
+</resources>

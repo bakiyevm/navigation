@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_i_am_fragment">Hello I am Fragment</string>
+    <string name="click_me_to_go_back">click me to go back</string>
+    <string name="hello_i_am_activity_from_another_module">hello I am activity from another module</string>
+</resources>
